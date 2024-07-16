@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.bg-dark {
+  background-color: #343a40 !important;
+}
+
+.text-white {
+  color: #ffffff !important;
+}
+
+.shadow-2 {
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15) !important;
+}
+
